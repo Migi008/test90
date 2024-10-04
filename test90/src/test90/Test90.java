@@ -6,8 +6,11 @@ public class Test90 {
 		System.out.println("hello");
 		System.out.println("hello");
 		System.out.println("hello");
+<<<<<<< HEAD
 		System.out.println("hello");
 		System.out.println("hello");
+=======
+>>>>>>> refs/heads/main
 
 	}
 }
